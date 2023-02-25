@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "name": "Node.js",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "name": "ReactJs",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "name": "Django",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
