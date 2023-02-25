@@ -1,4 +1,2 @@
 # ToDo-App
-one file for html,css,js,db
-CRUD and its Validation
-Allow user not to enter more than 120 words
+This is a JavaScript code for a todo list application that uses a RESTful API to interact with a backend database (in this case, a JSON file hosted on a local server).
